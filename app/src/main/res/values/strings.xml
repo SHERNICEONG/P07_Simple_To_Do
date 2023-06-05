@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P07_Simple To Do</string>
+    <string name="toDo">Type in a new task here</string>
+    <string name="toDelete">Type in the index of the task to be removed</string>
+    <string-array name="spinnerItems">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+</resources>
